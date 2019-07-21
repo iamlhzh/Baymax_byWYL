@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "hmr":"ng serve"
+    "hmr": "ng serve --open"
   },
   "private": true,
   "dependencies": {
